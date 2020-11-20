@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/Rofl113/Server113/issues"
   },
-  "homepage": "https://github.com/Rofl113/Server113#readme"
+  "homepage": "https://github.com/Rofl113/Server113#readme",
+  "dependencies": {
+    "eslint": "^7.13.0"
+  }
 }
